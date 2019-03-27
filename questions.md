@@ -15,14 +15,14 @@
 15. Where did most of your money go?
 16. What did you get really, really, really excited about?
 17. What song will always remind you of this year?
-Compared to this time last year, are you: happier or sadder? Thinner or fatter? Richer or poorer?
-18. What do you wish you’d done more of?
-19. What do you wish you’d done less of?
-20. How are you spending Christmas?
-21. Did you fall in love this year?
-22. Do you hate anyone now that you didn’t hate this time last year?
-23. What was your favorite show?
-24. What was the best book you read?
+18. Compared to this time last year, are you: happier or sadder? Thinner or fatter? Richer or poorer?
+19. What do you wish you’d done more of?
+20. What do you wish you’d done less of?
+21. How are you spending Christmas?
+22. Did you fall in love this year?
+23. Do you hate anyone now that you didn’t hate this time last year?
+24. What was your favorite show?
+25. What was the best book you read?
 26. What was your greatest musical discovery of the year?
 27. What was your favorite film?
 28. What was your favorite meal?
