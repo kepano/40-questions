@@ -9,7 +9,7 @@
 9. What do you consider the lowest depth of misery?
 10. What is your most marked characteristic?
 11. What is your greatest fear?
-12. 1. What is the trait you most deplore in yourself?
+12. What is the trait you most deplore in yourself?
 13. What is the trait you most deplore in others?
 14. On what occasion do you lie?
 15. What is your greatest extravagance?
