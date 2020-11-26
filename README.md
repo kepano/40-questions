@@ -4,6 +4,10 @@
 * In January 2020 I added a list of 40 questions to ask every 10 years. [See blog post](http://stephanango.com/40-questions-decade)
 * This repo maintains revisions to the list of questions
 
+## Submitting translations
+
+If you'd like to translate the questions into another language, you can submit your translation via pull request. Place the translated files into a folder named using ISO 639-1 two letter language code. See examples in `/translations`. 
+
 ## 40 questions to ask yourself each year
 
 One of my rituals at the end the year is asking myself these forty questions. This list is modified from a set of questions posted by [coppermoss](https://ask.metafilter.com/254216/What-are-your-tools-and-rituals-for-reflecting-on-the-past-year) on Metafilter.
