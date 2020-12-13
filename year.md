@@ -32,7 +32,7 @@
 32. What one thing would have made your year immeasurably more satisfying?
 33. How would you describe your personal fashion this year?
 34. What kept you sane?
-35. Which celebrity/public figure did you fancy the most?
+35. Which celebrity/public figure did you admire the most?
 36. What political issue stirred you the most?
 37. Who did you miss?
 38. Who was the best new person you met?
