@@ -18,7 +18,7 @@
 18. Compared to this time last year, are you: happier or sadder? Thinner or fatter? Richer or poorer?
 19. What do you wish you’d done more of?
 20. What do you wish you’d done less of?
-21. How are you spending Christmas?
+21. How are you spending the holidays?
 22. Did you fall in love this year?
 23. Do you hate anyone now that you didn’t hate this time last year?
 24. What was your favorite show?
