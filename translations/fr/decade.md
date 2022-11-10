@@ -1,6 +1,6 @@
 1. Que ferais-tu s'il te restait 6 mois à vivre ?
 2. Que ferais-tu si tu avais un milliard de dollars ?
-3. Quel conseil donnerais tu à ton toi d'il y a 10 ans ?
+3. Quel conseil donnerais-tu à ton toi d'il y a 10 ans ?
 4. Qu'espères-tu ne pas voir changer dans 10 ans ?
 5. Qu'espères-tu voir changer dans 10 ans ?
 6. Quelle est ton idée du bonheur parfait ?
@@ -24,7 +24,7 @@
 24. Que considères-tu comme ta plus grande réussite ?
 25. Si tu pouvais offrir un cadeau à chaque personne dans le monde, quel serait-il ?
 26. Quelle a été ta plus grande perte de temps ?
-27. Qu'est-ce que tu trouves douloureux mais qui vaut la peine d'être fait ?
+27. Que trouves-tu pénible, mais important à faire malgré tout ?
 28. Où aimerais-tu le plus vivre ?
 29. Quel est ton bien le plus précieux ?
 30. Qui est ton/ta meilleur·e ami·e ?
