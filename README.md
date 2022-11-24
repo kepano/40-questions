@@ -17,7 +17,7 @@ If you'd like to help translate the questions, you can submit your translation v
 | Spanish            | es        | [link](/translations/es/year.md) | [link](/translations/es/decade.md) |
 | German             | de        | [link](/translations/de/year.md) |                                    |
 | French             | fr        | [link](/translations/fr/year.md) | [link](/translations/fr/decade.md) |
-| Italian            | it        | [link](/translations/it/year.md) |                                    |
+| Italian            | it        | [link](/translations/it/year.md) | [link](/translations/it/decade.md) |
 | Norwegian          | no        | [link](/translations/no/year.md) | [link](/translations/no/decade.md) |
 | Turkish            | tr        | [link](/translations/tr/year.md) |                                    |
 | Chinese            | zh        | [link](/translations/zh/year.md) | [link](/translations/zh/decade.md) |
