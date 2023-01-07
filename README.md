@@ -20,10 +20,10 @@ If you'd like to help translate the questions, you can submit your translation v
 | Italian            | it        | [link](/translations/it/year.md) | [link](/translations/it/decade.md) |
 | Japanese           | ja        | [link](/translations/ja/year.md) | [link](/translations/ja/decade.md) |
 | Norwegian          | no        | [link](/translations/no/year.md) | [link](/translations/no/decade.md) |
+| Portuguese         | pt        | [link](/translations/pt/year.md) | [link](/translations/pt/decade.md) |
 | Filipino           | tl        | [link](/translations/tl/year.md) |                                    |
 | Turkish            | tr        | [link](/translations/tr/year.md) |                                    |
 | Chinese            | zh        | [link](/translations/zh/year.md) | [link](/translations/zh/decade.md) |
-| Portugues          | pt        | [link](/translations/pt/year.md) | [link](/translations/pt/decade.md) |
 
 ## 40 questions to ask yourself each year
 
