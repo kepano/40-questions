@@ -23,6 +23,7 @@ If you'd like to help translate the questions, you can submit your translation v
 | Filipino           | tl        | [link](/translations/tl/year.md) |                                    |
 | Turkish            | tr        | [link](/translations/tr/year.md) |                                    |
 | Chinese            | zh        | [link](/translations/zh/year.md) | [link](/translations/zh/decade.md) |
+| Portugues          | pt        | [link](/translations/pt/year.md) | [link](/translations/pt/decade.md) |
 
 ## 40 questions to ask yourself each year
 
