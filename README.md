@@ -11,19 +11,19 @@ See related blog posts:
 
 If you'd like to help translate the questions, you can submit your translation via pull request. Place the translated files into a folder named using the [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) two letter language code. See the [/translations](/translations) folder.
 
-| Language           | ISO 639-1 | Year                             | Decade                             |
-| ------------------ | --------- | -------------------------------- | ---------------------------------- |
-| English (original) | en        | [link](year.md)                  | [link](decade.md)                  |
-| Spanish            | es        | [link](/translations/es/year.md) | [link](/translations/es/decade.md) |
-| German             | de        | [link](/translations/de/year.md) |                                    |
-| French             | fr        | [link](/translations/fr/year.md) | [link](/translations/fr/decade.md) |
-| Italian            | it        | [link](/translations/it/year.md) | [link](/translations/it/decade.md) |
-| Japanese           | ja        | [link](/translations/ja/year.md) | [link](/translations/ja/decade.md) |
-| Norwegian          | no        | [link](/translations/no/year.md) | [link](/translations/no/decade.md) |
-| Portuguese         | pt        | [link](/translations/pt/year.md) | [link](/translations/pt/decade.md) |
-| Filipino           | tl        | [link](/translations/tl/year.md) |                                    |
-| Turkish            | tr        | [link](/translations/tr/year.md) |                                    |
-| Chinese            | zh        | [link](/translations/zh/year.md) | [link](/translations/zh/decade.md) |
+| ISO 639-1 | Language           | Year                             | Decade                             |
+| :--------- | :------------------ | -------------------------------- | ---------------------------------- |
+| en        | English (original) | [link](year.md)                  | [link](decade.md)                  |
+| de        | German             | [link](/translations/de/year.md) |                                    |
+| es        | Spanish            | [link](/translations/es/year.md) | [link](/translations/es/decade.md) |
+| fr        | French             | [link](/translations/fr/year.md) | [link](/translations/fr/decade.md) |
+| it        | Italian            | [link](/translations/it/year.md) | [link](/translations/it/decade.md) |
+| ja        | Japanese           | [link](/translations/ja/year.md) | [link](/translations/ja/decade.md) |
+| no        | Norwegian          | [link](/translations/no/year.md) | [link](/translations/no/decade.md) |
+| pt        | Portuguese         | [link](/translations/pt/year.md) | [link](/translations/pt/decade.md) |
+| tl        | Filipino           | [link](/translations/tl/year.md) |                                    |
+| tr        | Turkish            | [link](/translations/tr/year.md) |                                    |
+| zh        | Chinese            | [link](/translations/zh/year.md) | [link](/translations/zh/decade.md) |
 
 ## 40 questions to ask yourself each year
 
