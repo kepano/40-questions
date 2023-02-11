@@ -21,6 +21,7 @@ If you'd like to help translate the questions, you can submit your translation v
 | ja        | Japanese           | [link](/translations/ja/year.md) | [link](/translations/ja/decade.md) |
 | no        | Norwegian          | [link](/translations/no/year.md) | [link](/translations/no/decade.md) |
 | pt        | Portuguese         | [link](/translations/pt/year.md) | [link](/translations/pt/decade.md) |
+| ru        | Russian            | [link](/translations/ru/year.md) | [link](/translations/ru/decade.md) |
 | tl        | Filipino           | [link](/translations/tl/year.md) |                                    |
 | tr        | Turkish            | [link](/translations/tr/year.md) |                                    |
 | zh        | Chinese            | [link](/translations/zh/year.md) | [link](/translations/zh/decade.md) |
