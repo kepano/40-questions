@@ -12,7 +12,7 @@
 12. Welche Eigenschaft beklagst du an dir am meisten?
 13. Welche Eigenschaft beklagst du bei anderen am meisten?
 14. Bei welcher Gelegenheit lügst du?
-15. Was ist deine größte Ausgabe?
+15. Was war deine größte Ausgabe?
 16. Was ist für dich die am meisten überbewertete Tugend?
 17. Was stört dich am meisten an deinem Auftreten?
 18. Wenn du eine Sache an dir ändern könntest, was wäre das?
