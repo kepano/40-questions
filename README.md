@@ -15,6 +15,7 @@ If you'd like to help translate the questions, you can submit your translation v
 | :--------- | :------------------ | -------------------------------- | ---------------------------------- |
 | en        | English (original) | [link](year.md)                  | [link](decade.md)                  |
 | de        | German             | [link](/translations/de/year.md) | [link](/translations/de/decade.md) |
+| el        | Greek              | [link](/translations/el/year.md) | [link](/translations/el/decade.md) |
 | es        | Spanish            | [link](/translations/es/year.md) | [link](/translations/es/decade.md) |
 | fr        | French             | [link](/translations/fr/year.md) | [link](/translations/fr/decade.md) |
 | it        | Italian            | [link](/translations/it/year.md) | [link](/translations/it/decade.md) |
@@ -25,7 +26,6 @@ If you'd like to help translate the questions, you can submit your translation v
 | tl        | Filipino           | [link](/translations/tl/year.md) |                                    |
 | tr        | Turkish            | [link](/translations/tr/year.md) |                                    |
 | zh        | Chinese            | [link](/translations/zh/year.md) | [link](/translations/zh/decade.md) |
-| el        | Greek              | [link](/translations/el/year.md) | [link](/translations/el/decade.md) |
 
 ## 40 questions to ask yourself each year
 
