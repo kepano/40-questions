@@ -12,7 +12,7 @@ See related blog posts:
 If you'd like to help translate the questions, you can submit your translation via pull request. Place the translated files into a folder named using the [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) two letter language code. See the [/translations](/translations) folder.
 
 | ISO 639-1 | Language           | Year                             | Decade                             |
-| :--------- | :------------------ | -------------------------------- | ---------------------------------- |
+| :--------- | :------------------ |----------------------------------|------------------------------------|
 | en        | English (original) | [link](year.md)                  | [link](decade.md)                  |
 | de        | German             | [link](/translations/de/year.md) | [link](/translations/de/decade.md) |
 | el        | Greek              | [link](/translations/el/year.md) | [link](/translations/el/decade.md) |
@@ -20,6 +20,7 @@ If you'd like to help translate the questions, you can submit your translation v
 | fr        | French             | [link](/translations/fr/year.md) | [link](/translations/fr/decade.md) |
 | it        | Italian            | [link](/translations/it/year.md) | [link](/translations/it/decade.md) |
 | ja        | Japanese           | [link](/translations/ja/year.md) | [link](/translations/ja/decade.md) |
+| nl        | Dutch              | [link](/translations/nl/year.md) |                                    |
 | no        | Norwegian          | [link](/translations/no/year.md) | [link](/translations/no/decade.md) |
 | pt        | Portuguese         | [link](/translations/pt/year.md) | [link](/translations/pt/decade.md) |
 | ru        | Russian            | [link](/translations/ru/year.md) | [link](/translations/ru/decade.md) |
