@@ -23,6 +23,7 @@ If you'd like to help translate the questions, you can submit your translation v
 | ja        | Japanese           | [link](/translations/ja/year.md) | [link](/translations/ja/decade.md) |
 | nl        | Dutch              | [link](/translations/nl/year.md) | [link](/translations/nl/decade.md) |
 | no        | Norwegian          | [link](/translations/no/year.md) | [link](/translations/no/decade.md) |
+| pl        | Polish             | [link](/translations/pl/year.md) | [link](/translations/pl/decade.md) |
 | pt        | Portuguese         | [link](/translations/pt/year.md) | [link](/translations/pt/decade.md) |
 | ru        | Russian            | [link](/translations/ru/year.md) | [link](/translations/ru/decade.md) |
 | tl        | Filipino           | [link](/translations/tl/year.md) |                                    |
