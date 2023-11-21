@@ -2,7 +2,7 @@
 2. Yeni yıl için aldığınız kararlara bağlı kaldınız mı?
 3. Size yakın biri doğum yaptı mı?
 4. Size yakın biri vefat etti mi?
-5. Hangi şehir veya ükleleri ziyaret ettiniz?
+5. Hangi şehir veya ülkeleri ziyaret ettiniz?
 6. Önümüzdeki sene bu sene eskik olan neyi istersiniz?
 7. Bu seneden hangi tarih(ler) aklınıza yazıldı ve neden?
 8. Bu sene elde ettiğiniz en büyük başarı nedir?
