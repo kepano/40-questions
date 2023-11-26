@@ -26,9 +26,9 @@
 26. Mikä oli suurin ajantuhlauksesi?
 27. Mikä on mielestäsi kivuliasta, mutta kuitenkin sen arvoista?
 28. Missä eniten haluaisit elää?
-29. Mikä on eniten varjeltu omistuksesi?
+29. Mikä on varjelluin omistuksesi?
 30. Kuka on paras ystäväsi?
-31. Kuka, tai mikä on suurin rakkautesi elämässä?
+31. Kuka tai mikä on suurin rakkautesi elämässä?
 32. Ketä elävää ihmistä ihailet eniten?
 33. Kuka on fiktiivinen sankarisi?
 34. Keneen historialliseen henkilöön samaistut eniten?
