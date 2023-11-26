@@ -23,7 +23,7 @@
 23. Vihaatko nyt ketään, jota et vihannut tähän aikaan viime vuonna?
 24. Mikä oli suosikkinäytöksesi?
 25. Mikä oli paras kirja, jonka luit?
-26. Mikä oli vuodn paras musikaalinen löydöksesi?
+26. Mikä oli vuoden paras musikaalinen löydöksesi?
 27. Mikä oli suosikkielokuvasi?
 28. Mikä oli suosikkiateriasi?
 29. Mitä halusit ja sait?
