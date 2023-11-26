@@ -37,4 +37,4 @@
 37. Ketä sinulla oli ikävä?
 38. Kuka oli paras uusi henkilö, jonka tapasit?
 39. Minkä arvokkaan elämänohjeen opit tänä vuonna?
-40. Mikä on lainaus, joka tiivistää vuotesi?
+40. Mikä sitaatti tiivistää vuotesi?
