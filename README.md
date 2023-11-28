@@ -13,8 +13,8 @@ If you'd like to help translate the questions, you can submit your translation v
 
 | ISO 639-1 | Language           | Year                             | Decade                             |
 | :-------- | :----------------- | -------------------------------- | ---------------------------------- |
-| ar        | Arabic             | [link](/translations/de/year.md) | [link](/translations/de/decade.md) |
 | en        | English (original) | [link](year.md)                  | [link](decade.md)                  |
+| ar        | Arabic             | [link](/translations/de/year.md) | [link](/translations/de/decade.md) |
 | de        | German             | [link](/translations/de/year.md) | [link](/translations/de/decade.md) |
 | el        | Greek              | [link](/translations/el/year.md) | [link](/translations/el/decade.md) |
 | es        | Spanish            | [link](/translations/es/year.md) | [link](/translations/es/decade.md) |
