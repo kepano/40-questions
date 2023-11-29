@@ -1,40 +1,40 @@
-1. Yadi aapake paas jeene ke lie 6 maheene hon to aap kya karenge?
-2. Yadi aapake paas ek arab dolar ho to aap kya karenge?
-3. 10 saal pahale aap svayan ko kya salaah denge?
-4. Aapko kya ummeed hai ki 10 saal baad bhi jaise ho vaise hi rahoge?
-5. Aapko kya ummeed hai ki 10 saal baad alag hoga?
-6. Aapki soch mein poorn sukh kya hai?
-7. Aap sabse jyada kab aur kahan khush the?
+1. Agar aapke paas sirf 6 mahine jeene ke liye bache ho, to aap kya karenge?
+2. Agar aapke paas 1 billion dollars ho, to aap kya karenge?
+3. 10 saal pehle aap apne aap ko kya advice denge?
+4. Aapko lagta hai ki 10 saal baad aap kaise rahoge?
+5. Aapko lagta hai ki 10 saal baad kya alag hoga?
+6. Aapke hisab se asli khushi kya hai?
+7. Aap sabse zyada khush kab aur kahan the?
 8. Aap subah bistar se kyon uthte hain?
-9. What do you consider the lowest depth of misery?
-10. What is your most marked characteristic?
-11. What is your greatest fear?
-12. What is the trait you most deplore in yourself?
-13. What is the trait you most deplore in others?
-14. On what occasion do you lie?
-15. What is your greatest extravagance?
-16. What do you consider the most overrated virtue?
-17. What do you most dislike about your appearance?
-18. If you could change one thing about yourself, what would it be?
-19. Which talent would you most like to have?
-20. What do people frequently misunderstand about you?
-21. What is the quality you most like in a man?
-22. What is the quality you most like in a woman?
-23. What do you most value in your friends?
-24. What do you consider your greatest achievement?
-25. If you could give everyone in the world one gift, what would it be?
-26. What was your greatest waste of time?
-27. What do you find painful but worth doing?
-28. Where would you most like to live?
-29. What is your most treasured possession?
-30. Who is your best friend?
-31. Who or what is the greatest love of your life?
-32. Which living person do you most admire?
-33. Who is your hero of fiction?
-34. Which historical figure do you most identify with?
-35. What is your greatest regret?
-36. How would you like to die?
-37. What is your motto?
-38. What is the best compliment you ever received?
-39. What is the luckiest thing that happened to you?
-40. What makes you hopeful?
+9. Aap sabse dukh bhari situation ko kya maante hain?
+10. Aapka best quality kya hai?
+11. Aapka sabse bada dar kya hai?
+12. Aap apne aap mein kis gun ko sabse adhik ninda karte hain?
+13. Doosron mein aap kis gun ko sabse adhik ninda karte hain?
+14. Kis situation mein aap jhooth bolte hain?
+15. Aapka sabse bada kharch kya hai?
+16. Aap kis quality ko sabse zyada overrated maante hain?
+17. Aap apne appearance mein kya sabse kam pasand karte hain?
+18. Agar aap apne aap mein ek cheez badal sakte, toh woh kya hogi?
+19. Aap kaun si talent paana chahte hain?
+20. Log aapke baare mein aksar kya galat samajhte hain?
+21. Aap ek purush mein kaun si quality sabse zyada pasand karte hain?
+22. Aap ek mahila mein kaun si quality sabse zyada pasand karte hain?
+23. Aap apne doston mein kya sabse zyada value karte hain?
+24. Aap apni sabse badi achievement kya maante hain?
+25. Agar aap duniya ke har insaan ko ek gift de sakte, to woh kya hoga?
+26. Aapka sabse bada samay ki barbaadi kya thi?
+27. Aap kya painful lekin worth it maante hain?
+28. Aap sabse zyada kahan rehna pasand karenge?
+29. Aapka sabse precious possession kya hai?
+30. Aapka sabse accha dost kaun hai?
+31. Aapki life ka sabse bada pyaar kaun ya kya hai?
+32. Aap kis jeevit vyakti ko sabse zyada admire karte hain?
+33. Aapki favourite fictional hero kaun hai?
+34. Aap kis historical figure se sabse zyada relate karte hain?
+35. Aapki sabse badi regret kya hai?
+36. Aap kaise marne ki ichha rakhte hain?
+37. Aapki life ka motto kya hai?
+38. Aapko kabhi mili best compliment kya thi?
+39. Aapke saath jo sabse lucky thing hui, woh kya thi?
+40. Aapko kya hope deta hai?
