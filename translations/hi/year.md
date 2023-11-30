@@ -16,10 +16,10 @@
 16. Aap kis cheez ke liye really, really, really excited the?
 17. Kaun sa song is saal ka aapko hamesha yaad dilayega?
 18. Pichle saal ke is time ke comparison mein, kya aap: zyada khush hain ya dukhi? Patle hain ya mote? Amir hain ya gareeb?
-19. Aap kya karna zyada chahte the?
+19. Aap kya zyada karna chahte the?
 20. Aap kya kam karna chahte the?
 21. Aap holidays kaise spend kar rahe hain?
-22. Kya aapne is saal pyaar kiya?
+22. Kya aap is saal pyaar mein pade?
 23. Kya aap ab kisi se nafrat karte hain jo pichle saal nahi karte the?
 24. Aapka favorite show kya tha?
 25. Aapne padhi hui sabse acchi kitab kya thi?
