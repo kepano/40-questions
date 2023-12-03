@@ -33,7 +33,7 @@
 33. Comment décrirais-tu ton style vestimentaire cette année ?
 34. Qu'est-ce qui t'a permis·e de rester sain·e d'esprit ?
 35. Quelle célébrité/personnage public as-tu le plus admiré·e ?
-36. Quelle sujet d'actualité t'a le plus remué·e ?
+36. Quel sujet d'actualité t'a le plus remué·e ?
 37. Qui t'a manqué·e ?
 38. Quelle est la meilleure nouvelle personne que tu aies rencontrée ?
 39. Quelle est la leçon de vie la plus précieuse que tu aies apprise cette année ?
