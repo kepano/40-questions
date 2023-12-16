@@ -4,8 +4,8 @@ This repo maintains revisons and translations to the list of 40 questions I ask 
 
 See related blog posts:
 
-* [40 questions to ask yourself every year](http://stephanango.com/40-questions) (October 2016)
-* [40 questions to ask yourself every decade](http://stephanango.com/40-questions-decade) (January 2022)
+- [40 questions to ask yourself every year](http://stephanango.com/40-questions) (October 2016)
+- [40 questions to ask yourself every decade](http://stephanango.com/40-questions-decade) (January 2022)
 
 ## Translations
 
@@ -23,6 +23,7 @@ If you'd like to help translate the questions, you can submit your translation v
 | fr        | French             | [link](/translations/fr/year.md) | [link](/translations/fr/decade.md) |
 | hi        | Hindi              | [link](/translations/hi/year.md) | [link](/translations/hi/decade.md) |
 | id        | Indonesian         | [link](/translations/id/year.md) | [link](/translations/id/decade.md) |
+| dv        | Dhivehi            | [link](/translations/dv/year.md) | [link](/translations/dv/decade.md) |
 | it        | Italian            | [link](/translations/it/year.md) | [link](/translations/it/decade.md) |
 | ja        | Japanese           | [link](/translations/ja/year.md) | [link](/translations/ja/decade.md) |
 | ko        | Korean             | [link](/translations/ko/year.md) | [link](/translations/ko/decade.md) |
