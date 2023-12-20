@@ -33,7 +33,7 @@
 33. Como você descreveria sua moda pessoal este ano?
 34. O que te manteve são?
 35. Qual celebridade/figura pública você mais admira?
-36. Qual questão política mais texeu com você?
+36. Qual questão política mais mexeu com você?
 37. De quem você sentiu falta?
 38. Quem foi a melhor pessoa que você conheceu?
 39. Que valiosa lição de vida você aprendeu este ano?
