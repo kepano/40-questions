@@ -39,7 +39,6 @@ If you'd like to help translate the questions, you can submit your translation v
 | zh        | Chinese            | [link](/translations/zh/year.md) | [link](/translations/zh/decade.md) |
 | ta        | Tamil              | [link](/translations/ta/year.md) | [link](/translations/ta/decade.md) |
 
-
 ## 40 questions to ask yourself each year
 
 One of my rituals at the end of each year is asking myself these forty questions. It usually takes me about a week to work my way through all of them. I find it to be one of the most valuable exercises to reflect on what happened, good and bad, and how I hope the year ahead will shape up.
