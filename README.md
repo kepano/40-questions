@@ -38,6 +38,7 @@ If you'd like to help translate the questions, you can submit your translation v
 | tr        | Turkish            | [link](/translations/tr/year.md) | [link](/translations/tr/decade.md) |
 | vi        | Vietnamese         | [link](/translations/vi/year.md) | [link](/translations/vi/decade.md) |
 | zh        | Chinese            | [link](/translations/zh/year.md) | [link](/translations/zh/decade.md) |
+| zh-Hant        | Traditional Chinese            | [link](/translations/zh-Hant/year.md) | [link](/translations/zh-Hant/decade.md) |
 
 ## 40 questions to ask yourself each year
 
