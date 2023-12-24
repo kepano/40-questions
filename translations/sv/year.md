@@ -1,5 +1,3 @@
-# 40 frågor att ställa dig själv varje år
-
 1. Vad gjorde du i år som du aldrig hade gjort tidigare?
 2. Höll du dina nyårslöften?
 3. Har någon nära dig fött barn?
