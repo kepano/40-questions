@@ -16,8 +16,8 @@
 16. Wat maakte je héél erg opgewonden?
 17. Welk liedje zal je altijd aan dit jaar herinneren?
 18. Vergeleken met deze tijd vorig jaar, ben je: blijer of droeviger? Dunner of dikker? Rijker of armer?
-19. Wat had je meer van willen doen?
-20. Wat had je minder van willen doen?
+19. Waar had je meer van willen doen?
+20. Waar had je minder van willen doen?
 21. Hoe ga je Kerst vieren?
 22. Ben je dit jaar verliefd geworden?
 23. Haat je nu iemand die je vorig jaar niet haatte?
