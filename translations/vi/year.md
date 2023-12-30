@@ -16,9 +16,9 @@
 16. Bạn đã thực sự, thực sự, thực sự hào hứng về điều gì?
 17. Bài hát nào sẽ luôn nhắc bạn về năm nay?
 18. So với thời điểm này năm ngoái, bạn có: hạnh phúc hơn hay buồn hơn? Gầy hơn hay mập hơn? Giàu hơn hay nghèo hơn?
-19. Bạn ước gì mình đã làm nhiều hơn?
-20. Bạn ước gì mình đã làm ít hơn?
-21. Bạn dành thời gian lễ như thế nào?
+19. Bạn ước mình đã làm gì nhiều hơn?
+20. Bạn ước mình đã làm gì ít hơn?
+21. Bạn đã tận hưởng những ngày nghỉ lễ như thế nào?
 22. Bạn có yêu đương trong năm nay không?
 23. Bạn có ghét ai bây giờ mà năm ngoái bạn không ghét không?
 24. Chương trình yêu thích của bạn là gì?
@@ -34,7 +34,7 @@
 34. Điều gì giữ cho bạn tỉnh táo?
 35. Bạn ngưỡng mộ người nổi tiếng/công chúng nào nhất?
 36. Vấn đề chính trị nào khiến bạn quan tâm nhất?
-37. Bạn nhớ ai?
-38. Người mới quen biết tốt nhất của bạn là ai?
+37. Bạn đã nhớ ai?
+38. Người tốt nhất mà bạn mới quen biết là ai?
 39. Bạn học được bài học quý giá nào trong năm nay?
 40. Câu trích dẫn nào tóm tắt năm của bạn?
