@@ -1,10 +1,10 @@
 1. Qu'as-tu fait cette année que tu n'avais jamais fait auparavant ?
-2. As-tu tenu tes résolutions du nouvel an ?
-3. Quelqu'un de ton entourage a-t-iel accouché ?
+2. As-tu tenu tes résolutions du Nouvel An ?
+3. Quelqu'un·e de ton entourage a-t-iel accouché ?
 4. Est-ce qu'un·e de tes proches est décédé·e ?
-5. Quels villes/états/pays as-tu visités ?
+5. Quelles villes/états/pays as-tu visités ?
 6. Qu'aimerais-tu avoir l'année prochaine qui t'a manqué cette année ?
-7. Quelle(s) date(s) de cette année rester(a/ont) gravée dans ta mémoire, et pourquoi ?
+7. Quelle(s) date(s) de cette année rester(a/ont) gravée(s) dans ta mémoire, et pourquoi ?
 8. Quelle a été ta plus grande réussite ?
 9. Quel a été ton plus gros échec ?
 10. Quelles autres difficultés as-tu rencontrées ?
