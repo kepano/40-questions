@@ -1,4 +1,4 @@
-1. Que ferais-tu s'il te restait 6 mois à vivre ?
+1. Que ferais-tu s'il ne te restait que 6 mois à vivre ?
 2. Que ferais-tu si tu avais un milliard de dollars ?
 3. Quel conseil donnerais-tu à ton toi d'il y a 10 ans ?
 4. Qu'espères-tu ne pas voir changer dans 10 ans ?
@@ -7,7 +7,7 @@
 7. Quand et où as-tu été le plus heureux·se ?
 8. Pourquoi te lèves-tu le matin ?
 9. Que considères-tu comme étant le point de misère et de désespoir le plus profond ?
-10. Quelle est ta caractéristique la plus marquée ?
+10. Quelle est ta caractéristique la plus marquante ?
 11. Quelle est ta plus grande peur ?
 12. Quel est le trait que tu déplores le plus en toi-même ?
 13. Quel est le trait que tu déplores le plus chez les autres ?
