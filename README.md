@@ -11,34 +11,35 @@ See related blog posts:
 
 If you'd like to help translate the questions, you can submit your translation via pull request. Place the translated files into a folder named using the [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) two letter language code. See the [/translations](/translations) folder.
 
-| ISO 639-1 | Language              | Year                             | Decade                             |
-| :-------- | :-------------------- | -------------------------------- | ---------------------------------- |
-| en        | English (original)    | [link](year.md)                  | [link](decade.md)                  |
-| ar        | Arabic                | [link](/translations/ar/year.md) | [link](/translations/ar/decade.md) |
-| de        | German                | [link](/translations/de/year.md) | [link](/translations/de/decade.md) |
-| el        | Greek                 | [link](/translations/el/year.md) | [link](/translations/el/decade.md) |
-| es        | Spanish               | [link](/translations/es/year.md) | [link](/translations/es/decade.md) |
-| fa        | Persian               | [link](/translations/fa/year.md) | [link](/translations/fa/decade.md) |
-| fi        | Finnish               | [link](/translations/fi/year.md) | [link](/translations/fi/decade.md) |
-| fr        | French                | [link](/translations/fr/year.md) | [link](/translations/fr/decade.md) |
-| hi        | Hindi                 | [link](/translations/hi/year.md) | [link](/translations/hi/decade.md) |
-| id        | Indonesian            | [link](/translations/id/year.md) | [link](/translations/id/decade.md) |
-| dv        | Dhivehi               | [link](/translations/dv/year.md) | [link](/translations/dv/decade.md) |
-| it        | Italian               | [link](/translations/it/year.md) | [link](/translations/it/decade.md) |
-| ja        | Japanese              | [link](/translations/ja/year.md) | [link](/translations/ja/decade.md) |
-| ko        | Korean                | [link](/translations/ko/year.md) | [link](/translations/ko/decade.md) |
-| lv        | Latvian               | [link](/translations/lv/year.md) | [link](/translations/lv/decade.md) |
-| nl        | Dutch                 | [link](/translations/nl/year.md) | [link](/translations/nl/decade.md) |
-| no        | Norwegian             | [link](/translations/no/year.md) | [link](/translations/no/decade.md) |
-| pl        | Polish                | [link](/translations/pl/year.md) | [link](/translations/pl/decade.md) |
-| pt        | Portuguese            | [link](/translations/pt/year.md) | [link](/translations/pt/decade.md) |
-| ru        | Russian               | [link](/translations/ru/year.md) | [link](/translations/ru/decade.md) |
-| sv        | Swedish               | [link](/translations/sv/year.md) |                                    |
-| ta        | Tamil                 | [link](/translations/ta/year.md) | [link](/translations/ta/decade.md) |
-| tl        | Filipino              | [link](/translations/tl/year.md) |                                    |
-| tr        | Turkish               | [link](/translations/tr/year.md) | [link](/translations/tr/decade.md) |
-| uk        | Ukrainian             | [link](/translations/uk/year.md) | [link](/translations/uk/decade.md) |
-| vi        | Vietnamese            | [link](/translations/vi/year.md) | [link](/translations/vi/decade.md) |
+| ISO 639-1 | Language              | Year                                  | Decade                                  |
+| :-------- | :-------------------- | ------------------------------------- | --------------------------------------- |
+| en        | English (original)    | [link](year.md)                       | [link](decade.md)                       |
+| ar        | Arabic                | [link](/translations/ar/year.md)      | [link](/translations/ar/decade.md)      |
+| de        | German                | [link](/translations/de/year.md)      | [link](/translations/de/decade.md)      |
+| el        | Greek                 | [link](/translations/el/year.md)      | [link](/translations/el/decade.md)      |
+| es        | Spanish               | [link](/translations/es/year.md)      | [link](/translations/es/decade.md)      |
+| fa        | Persian               | [link](/translations/fa/year.md)      | [link](/translations/fa/decade.md)      |
+| fi        | Finnish               | [link](/translations/fi/year.md)      | [link](/translations/fi/decade.md)      |
+| fr        | French                | [link](/translations/fr/year.md)      | [link](/translations/fr/decade.md)      |
+| hi        | Hindi                 | [link](/translations/hi/year.md)      | [link](/translations/hi/decade.md)      |
+| hu        | Hungarian (Magyar)    | [link](/translations//hu/year.md)     | [link](/translations/hu/decade.md)      |
+| id        | Indonesian            | [link](/translations/id/year.md)      | [link](/translations/id/decade.md)      |
+| dv        | Dhivehi               | [link](/translations/dv/year.md)      | [link](/translations/dv/decade.md)      |
+| it        | Italian               | [link](/translations/it/year.md)      | [link](/translations/it/decade.md)      |
+| ja        | Japanese              | [link](/translations/ja/year.md)      | [link](/translations/ja/decade.md)      |
+| ko        | Korean                | [link](/translations/ko/year.md)      | [link](/translations/ko/decade.md)      |
+| lv        | Latvian               | [link](/translations/lv/year.md)      | [link](/translations/lv/decade.md)      |
+| nl        | Dutch                 | [link](/translations/nl/year.md)      | [link](/translations/nl/decade.md)      |
+| no        | Norwegian             | [link](/translations/no/year.md)      | [link](/translations/no/decade.md)      |
+| pl        | Polish                | [link](/translations/pl/year.md)      | [link](/translations/pl/decade.md)      |
+| pt        | Portuguese            | [link](/translations/pt/year.md)      | [link](/translations/pt/decade.md)      |
+| ru        | Russian               | [link](/translations/ru/year.md)      | [link](/translations/ru/decade.md)      |
+| sv        | Swedish               | [link](/translations/sv/year.md)      |                                         |
+| ta        | Tamil                 | [link](/translations/ta/year.md)      | [link](/translations/ta/decade.md)      |
+| tl        | Filipino              | [link](/translations/tl/year.md)      |                                         |
+| tr        | Turkish               | [link](/translations/tr/year.md)      | [link](/translations/tr/decade.md)      |
+| uk        | Ukrainian             | [link](/translations/uk/year.md)      | [link](/translations/uk/decade.md)      |
+| vi        | Vietnamese            | [link](/translations/vi/year.md)      | [link](/translations/vi/decade.md)      |
 | zh-hans   | Chinese (simplified)  | [link](/translations/zh-hans/year.md) | [link](/translations/zh-hans/decade.md) |
 | zh-hant   | Chinese (traditional) | [link](/translations/zh-hant/year.md) | [link](/translations/zh-hant/decade.md) |
 
