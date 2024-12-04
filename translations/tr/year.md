@@ -3,14 +3,14 @@
 3. Size yakın biri doğum yaptı mı?
 4. Size yakın biri vefat etti mi?
 5. Hangi şehir veya ülkeleri ziyaret ettiniz?
-6. Önümüzdeki sene bu sene eskik olan neyi istersiniz?
+6. Önümüzdeki sene bu sene eksik olan neyi istersiniz?
 7. Bu seneden hangi tarih(ler) aklınıza yazıldı ve neden?
 8. Bu sene elde ettiğiniz en büyük başarı nedir?
 9. Bu seneki en büyük başarısızlığınız nedir?
 10. Başka hangi zorluklara göğüs gerdiniz?
 11. Herhangi bir hastalık veya sakatlık geçirdiniz mi?
 12. Satın aldığınız en iyi şey ne idi?
-13. Kimin davranışları öğülmeye değerdi?
+13. Kimin davranışları övülmeye değerdi?
 14. Kimin davranışları sizi korkuttu?
 15. Paranızın çoğunu neye harcadınız?
 16. Ne hakkında gerçekten ama gerçekten heyecanlandınız?
@@ -31,7 +31,7 @@
 31. Doğum gününüzde ne yaptınız?
 32. Ne olsaydı da yılı sizin için çok daha hoşnut ederdi?
 33. Bu seneki kişisel modanızı nasıl tanımlarsınız?
-34. Sizi ne	aklı başında tuttu?
+34. Sizi ne aklı başında tuttu?
 35. En çok hangi ünlüye hayran kaldınız?
 36. Sizi en çok heyecanlandıran politik gelişme hangisi idi?
 37. Kimi özlediniz?
