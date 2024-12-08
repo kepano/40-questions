@@ -15,6 +15,7 @@ If you'd like to help translate the questions, you can submit your translation v
 | :-------- | :-------------------- | ------------------------------------- | --------------------------------------- |
 | en        | English (original)    | [link](year.md)                       | [link](decade.md)                       |
 | ar        | Arabic                | [link](/translations/ar/year.md)      | [link](/translations/ar/decade.md)      |
+| bg        | Bulgarian             | [link](/translations/bg/year.md)      | [link](/translations/bg/decade.md)      |
 | de        | German                | [link](/translations/de/year.md)      | [link](/translations/de/decade.md)      |
 | el        | Greek                 | [link](/translations/el/year.md)      | [link](/translations/el/decade.md)      |
 | es        | Spanish               | [link](/translations/es/year.md)      | [link](/translations/es/decade.md)      |
