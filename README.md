@@ -16,6 +16,7 @@ If you'd like to help translate the questions, you can submit your translation v
 | en        | English (original)    | [link](year.md)                       | [link](decade.md)                       |
 | ar        | Arabic                | [link](/translations/ar/year.md)      | [link](/translations/ar/decade.md)      |
 | bg        | Bulgarian             | [link](/translations/bg/year.md)      | [link](/translations/bg/decade.md)      |
+| da        | Danish                | [link](/translations/da/year.md)      | [link](/translations/da/decade.md)      |
 | de        | German                | [link](/translations/de/year.md)      | [link](/translations/de/decade.md)      |
 | el        | Greek                 | [link](/translations/el/year.md)      | [link](/translations/el/decade.md)      |
 | es        | Spanish               | [link](/translations/es/year.md)      | [link](/translations/es/decade.md)      |
@@ -23,7 +24,7 @@ If you'd like to help translate the questions, you can submit your translation v
 | fi        | Finnish               | [link](/translations/fi/year.md)      | [link](/translations/fi/decade.md)      |
 | fr        | French                | [link](/translations/fr/year.md)      | [link](/translations/fr/decade.md)      |
 | hi        | Hindi                 | [link](/translations/hi/year.md)      | [link](/translations/hi/decade.md)      |
-| hu        | Hungarian (Magyar)    | [link](/translations//hu/year.md)     | [link](/translations/hu/decade.md)      |
+| hu        | Hungarian (Magyar)    | [link](/translations/hu/year.md)      | [link](/translations/hu/decade.md)      |
 | id        | Indonesian            | [link](/translations/id/year.md)      | [link](/translations/id/decade.md)      |
 | dv        | Dhivehi               | [link](/translations/dv/year.md)      | [link](/translations/dv/decade.md)      |
 | it        | Italian               | [link](/translations/it/year.md)      | [link](/translations/it/decade.md)      |
