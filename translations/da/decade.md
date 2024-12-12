@@ -1,9 +1,9 @@
 1. Hvad ville du gøre hvis du havde 6 måneder tilbage at leve i?
-2. Hvad ville du gøre hvis du havde en 10 milliarder kroner?
+2. Hvad ville du gøre hvis du havde 10 milliarder kroner?
 3. Hvilke råd ville du give dig selv for ti år siden?
-4. Hvad håber du forbiver det samme om ti år?
+4. Hvad håber du forbliver det samme om ti år?
 5. Hvad håber du at have ændret sig om ti år?
-6. Hvad er din forestilling om perfekt lykke?
+6. Hvad er den perfekte lykke for dig?
 7. Hvor og hvornår var du lykkeligst?
 8. Hvad får dig ud af sengen hver dag?
 9. Hvad er for dig den største og dybeste elendighed?
@@ -13,18 +13,18 @@
 13. Hvilket personlighedstræk fordømmer du mest i andre?
 14. I hvilken anledning lyver du?
 15. Hvad er den største ekstravagance for dig?
-16. Hvad anser du for den mest overvuderede dyd?
+16. Hvad anser du for den mest overvurderede dyd?
 17. Hvad kan du mindst lide ved dit udseende?
 18. Hvis du kunne ændre én ting ved dig selv, hvad ville det så være?
 19. Hvilket talent ville du allerhelst besidde?
 20. Hvad misforstår andre ofte om dig?
-21. Hvilken engenskab kan du bedst lide hos en mand?
-22. Hvilken engenskab kan du bedst lide hos en kvinde?
-23. Hvad værdsætter du mest fra dine venner?
+21. Hvilken egenskab kan du bedst lide hos en mand?
+22. Hvilken egenskab kan du bedst lide hos en kvinde?
+23. Hvad værdsætter du mest ved dine venner?
 24. Hvad anser du før din største bedrift?
 25. Hvis du kunne give alle mennesker i hele verden én gave, hvad ville det så være?
 26. Hvad har du spildt allermest tid på?
-27. Hvad finder du smertefuldt, men samtidigt smerten værd?
+27. Hvad finder du smertefuldt, men smerten værd?
 28. Hvor kunne du helst tænke dig at bo?
 29. Hvad er din kæreste ejendom?
 30. Hvem er din bedste ven?
