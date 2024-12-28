@@ -1,9 +1,9 @@
 1. Vad skulle du göra om du hade 6 månader kvar att leva?
-2. Vad skulle du göra om du hade en miljard dollar?
+2. Vad skulle du göra om du hade tio miljarder kronor?
 3. Vilket råd skulle du ge dig själv för 10 år sedan?
 4. Vad hoppas du ska vara samma om 10 år?
 5. Vad hoppas du ska vara annorlunda om 10 år?
-6. Vad är din idé om fullständig lycka?
+6. Vad är dina tankar om fullständig lycka?
 7. När och var var du som lyckligast?
 8. Varför går du upp ur sängen på morgonen?
 9. Vad anser du vara det djupaste eländet?
@@ -30,7 +30,7 @@
 30. Vem är din bästa vän?
 31. Vem eller vad är ditt livs största kärlek?
 32. Vilken nu levande person beundrar du mest?
-33. Vem är din hjälte i fiktionen?
+33. Vem är din skönlitterära hjälte?
 34. Vilken historisk person identifierar du dig mest med?
 35. Vad är din största ånger?
 36. Hur skulle du vilja dö?
