@@ -1,10 +1,10 @@
-1. Mit tettél iebben az évben amit még soha ezelőtt?
+1. Mit tettél ebben az évben, amit még soha ezelőtt?
 2. Betartottad az újévi fogadalmaidat?
 3. Szült valaki a közeledben?
 4. Meghalt valaki a közeledben?
-5. Melyik városokat/államokat/országokat látogattad meg?
-6. Mire lenne szükséged jövőre ami idén nem volt meg?
-7. Melyik dátumok maradnak emlékezetesek és miért?
+5. Mely városokat/államokat/országokat látogattad meg?
+6. Mire lenne szükséged jövőre, ami idén nem volt meg?
+7. Mely dátumok maradnak emlékezetesek és miért?
 8. Mi a legnagyobb sikered az idei évben?
 9. Mi volt a legnagyobb kudarcod?
 10. Milyen más nehézségekkel küzdöttél meg?
@@ -29,10 +29,10 @@
 29. Mire vágytál és megkaptad?
 30. Mire vágytál és nem kaptad meg?
 31. Mit csináltál a születésnapodon?
-32. Mi volna az egyetlen dolog ami mérhetetlenül élvezetessé tenné az évedet?
+32. Mi volna az egyetlen dolog, ami mérhetetlenül élvezetessé tenné az évedet?
 33. Hogy jellemeznéd az öltözködésed ebben az évben?
 34. Mi tartott meg normálisnak?
-35. Kit csodáltál vagy kire néztél fel leginkább?
+35. Kit csodáltál, vagy kire néztél fel leginkább?
 36. Melyik politikai esemény kavart fel legjobban?
 37. Miről maradtál le?
 38. Ki volt a legjobb, legújabb ismeretséged?
