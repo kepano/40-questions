@@ -15,7 +15,7 @@
 15. Where did most of your money go?
 16. What did you get really, really, really excited about?
 17. What song will always remind you of this year?
-18. Compared to this time last year, are you: happier or sadder? Thinner or fatter? Richer or poorer?
+18. Compared to this time last year, are you: happier or sadder? Richer or poorer? Healthier or unhealthier?
 19. What do you wish you’d done more of?
 20. What do you wish you’d done less of?
 21. How are you spending the holidays?
