@@ -1,4 +1,3 @@
-## True Devnagri and Hindi
 1. इस साल आपने क्या नया किया जो पहले कभी नहीं किया?
 2. क्या आपने अपने नए साल के संकल्प को पूरा किया?
 3. क्या आपके करीबी किसी ने बच्चे को जन्म दिया?
@@ -40,7 +39,7 @@
 39. इस साल का सबसे महत्वपूर्ण सबक क्या रहा?
 40. कौन से शब्द आपके इस साल को सटीक रूप से दर्शाते हैं?
 
-## In Latin script
+## Latin script
 1. Is saal aapne kya naya kiya jo pehle kabhi nahi kiya?
 2. Kya aapne apne new year's resolutions ko pura kiya?
 3. Kya aapke kareebi kisi ne bachche ko janm diya?
