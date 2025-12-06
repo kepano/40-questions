@@ -35,6 +35,7 @@ If you'd like to help translate the questions, you can submit your translation v
 | lt        | Lithuanian            | [link](/translations/lt/year.md)      |                                         |
 | lv        | Latvian               | [link](/translations/lv/year.md)      | [link](/translations/lv/decade.md)      |
 | ml        | Malayalam             | [link](/translations/ml/year.md)      | [link](/translations/ml/decade.md)      |
+| mr        | Marathi               | [link](/translations/mr/year.md)      |                                         |
 | nl        | Dutch                 | [link](/translations/nl/year.md)      | [link](/translations/nl/decade.md)      |
 | no        | Norwegian             | [link](/translations/no/year.md)      | [link](/translations/no/decade.md)      |
 | pl        | Polish                | [link](/translations/pl/year.md)      | [link](/translations/pl/decade.md)      |
