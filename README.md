@@ -31,6 +31,7 @@ If you'd like to help translate the questions, you can submit your translation v
 | dv        | Dhivehi               | [link](/translations/dv/year.md)      | [link](/translations/dv/decade.md)      |
 | it        | Italian               | [link](/translations/it/year.md)      | [link](/translations/it/decade.md)      |
 | ja        | Japanese              | [link](/translations/ja/year.md)      | [link](/translations/ja/decade.md)      |
+| km        | Khmer                 | [link](/translations/km/year.md)      | [link](/translations/km/decade.md)      |
 | ko        | Korean                | [link](/translations/ko/year.md)      | [link](/translations/ko/decade.md)      |
 | lt        | Lithuanian            | [link](/translations/lt/year.md)      |                                         |
 | lv        | Latvian               | [link](/translations/lv/year.md)      | [link](/translations/lv/decade.md)      |
