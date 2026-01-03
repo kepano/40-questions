@@ -48,6 +48,7 @@ If you'd like to help translate the questions, you can submit your translation v
 | tl        | Filipino              | [link](/translations/tl/year.md)      |                                         |
 | tr        | Turkish               | [link](/translations/tr/year.md)      | [link](/translations/tr/decade.md)      |
 | uk        | Ukrainian             | [link](/translations/uk/year.md)      | [link](/translations/uk/decade.md)      |
+| uz        | Uzbek                 | [link](/translations/uz/year.md)      | [link](/translations/uz/decade.md)      |
 | vi        | Vietnamese            | [link](/translations/vi/year.md)      | [link](/translations/vi/decade.md)      |
 | zh-hans   | Chinese (simplified)  | [link](/translations/zh-hans/year.md) | [link](/translations/zh-hans/decade.md) |
 | zh-hant   | Chinese (traditional) | [link](/translations/zh-hant/year.md) | [link](/translations/zh-hant/decade.md) |
