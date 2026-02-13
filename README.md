@@ -41,6 +41,7 @@ If you'd like to help translate the questions, you can submit your translation v
 | no        | Norwegian             | [link](/translations/no/year.md)      | [link](/translations/no/decade.md)      |
 | pl        | Polish                | [link](/translations/pl/year.md)      | [link](/translations/pl/decade.md)      |
 | pt        | Portuguese            | [link](/translations/pt/year.md)      | [link](/translations/pt/decade.md)      |
+| ro        | Romanian              | [link](/translations/ro/year.md)      | [link](/translations/ro/decade.md)      |
 | ru        | Russian               | [link](/translations/ru/year.md)      | [link](/translations/ru/decade.md)      |
 | sk        | Slovak                | [link](/translations/sv/year.md)      |                                         |
 | sr        | Serbian               | [link](/translations/sr/year.md)      | [link](/translations/sr/decade.md)      |
