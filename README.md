@@ -43,6 +43,7 @@ If you'd like to help translate the questions, you can submit your translation v
 | pt        | Portuguese            | [link](/translations/pt/year.md)      | [link](/translations/pt/decade.md)      |
 | ru        | Russian               | [link](/translations/ru/year.md)      | [link](/translations/ru/decade.md)      |
 | sk        | Slovak                | [link](/translations/sv/year.md)      |                                         |
+| sr        | Serbian               | [link](/translations/sr/year.md)      | [link](/translations/sr/decade.md)      |
 | sv        | Swedish               | [link](/translations/sv/year.md)      | [link](/translations/sv/decade.md)      |
 | ta        | Tamil                 | [link](/translations/ta/year.md)      | [link](/translations/ta/decade.md)      |
 | th        | Thai                  | [link](/translations/th/year.md)      |                                         |
