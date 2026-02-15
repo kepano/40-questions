@@ -1,7 +1,7 @@
 1. Was hast du dieses Jahr gemacht, das du noch nie zuvor gemacht hast?
 2. Hast du deine Neujahrsvorsätze eingehalten?
 3. Hat jemand aus deinem Umfeld ein Kind bekommen?
-3. Ist jemand aus deinem Umfeld verstorben?
+4. Ist jemand aus deinem Umfeld verstorben?
 5. Welche Städte, Orte oder Länder hast du besucht?
 6. Was hättest du gerne nächstes Jahr, was du dieses Jahr nicht hattest?
 7. Welche Momente aus diesem Jahr bleiben dir im Gedächtnis und warum?
@@ -9,13 +9,13 @@
 9. Was war dein größter Rückschlag?
 10. Welche anderen schwierigen Situationen hast du überwunden?
 11. Warst du verletzt oder krank?
-12. Was war das beste, das du gekauft hast?
+12. Was war das Beste, das du gekauft hast?
 13. Wessen Verhalten hast du bewundert?
 14. Wessen Verhalten hat dich gestört?
 15. In was hast du am meisten Geld gesteckt?
 16. Worauf hast du besonders hingefiebert?
 17. Welcher Song wird dich immer an dieses Jahr erinnern?
-18. Im Vergleich zur selben Zeit letztes Jahr bist du: Glücklicher oder trauriger? Dünner oder dicker? Reicher oder ärmer?
+18. Im Vergleich zur selben Zeit letztes Jahr bist du: glücklicher oder trauriger? Dünner oder dicker? Reicher oder ärmer?
 19. Was hättest du gerne mehr/häufiger gemacht?
 20. Was hättest du lieber weniger/seltener gemacht?
 21. Wie verbringst du Weihnachten?
@@ -35,6 +35,6 @@
 35. Welche berühmte/öffentliche Person hast du am meisten bewundert?
 36. Welches politische Thema hat dich am meisten gestört?
 37. Wen hast du vermisst?
-38. Wer war die beste Person, die du dieses Jahr kennen gelernt hast?
+38. Wer war die beste Person, die du dieses Jahr kennengelernt hast?
 39. Welche wertvolle Lektion fürs Leben hast du dieses Jahr gelernt?
 40. Welches Zitat fasst dein Jahr zusammen?
