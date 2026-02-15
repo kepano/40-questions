@@ -7,7 +7,7 @@
 7. Welche Momente aus diesem Jahr bleiben dir im Gedächtnis und warum?
 8. Was war deine größte Errungenschaft dieses Jahr?
 9. Was war dein größter Rückschlag?
-10. Welche anderen schwierigen Situationen hast du überwunden?
+10. Welche anderen schwierigen Situationen hast du erlebt?
 11. Warst du verletzt oder krank?
 12. Was war das Beste, das du gekauft hast?
 13. Wessen Verhalten hast du bewundert?
@@ -15,23 +15,23 @@
 15. In was hast du am meisten Geld gesteckt?
 16. Worauf hast du besonders hingefiebert?
 17. Welcher Song wird dich immer an dieses Jahr erinnern?
-18. Im Vergleich zur selben Zeit letztes Jahr bist du: glücklicher oder trauriger? Dünner oder dicker? Reicher oder ärmer?
+18. Im Vergleich zur selben Zeit letztes Jahr bist du: glücklicher oder trauriger? Reicher oder ärmer? Gesünder oder ungesünder?
 19. Was hättest du gerne mehr/häufiger gemacht?
 20. Was hättest du lieber weniger/seltener gemacht?
-21. Wie verbringst du Weihnachten?
+21. Wie verbringst du die Feiertage?
 22. Hast du dich dieses Jahr verliebt?
 23. Welche Person magst du weniger als letztes Jahr?
 24. Was war deine Lieblingsserie?
 25. Was war das beste Buch, das du gelesen hast?
-26. Was war die beste musikalische Entdeckung, die du dieses Jahr gemacht hast?
-27. Was war der beste Film, den du gesehen hast?
-28. Was war das beste Essen, das du gegessen hast?
+26. Was war deine größte musikalische Entdeckung dieses Jahr?
+27. Was war dein Lieblingsfilm?
+28. Was war dein Lieblingsessen?
 29. Was wolltest du haben und hast es bekommen?
 30. Was wolltest du haben, aber hast es nicht bekommen?
 31. Was hast du an deinem Geburtstag gemacht?
 32. Was hätte dein Jahr unfassbar besser gemacht?
 33. Wie würdest du deinen persönlichen Modestil dieses Jahr beschreiben?
-34. Was hat dich gesund gehalten?
+34. Was hat dich bei Verstand gehalten?
 35. Welche berühmte/öffentliche Person hast du am meisten bewundert?
 36. Welches politische Thema hat dich am meisten gestört?
 37. Wen hast du vermisst?
