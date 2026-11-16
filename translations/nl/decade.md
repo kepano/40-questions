@@ -1,18 +1,18 @@
 1. Wat zou je doen als je nog 6 maanden te leven had?
 2. Wat zou je doen als je een miljard Euro had?
-3. Wat advies zou je jezelf van 10 jaar geleden geven?
+3. Wat advies zou je jezelf 10 jaar geleden geven?
 4. Wat hoop je dat hetzelfde is over 10 jaar?
 5. Wat hoop je dat anders is over 10 jaar?
 6. Wat is jouw idee van perfect geluk?
 7. Wanneer en waar was je het gelukkigst?
 8. Waar kom je 's ochtends voor uit bed?
-9. Wat zie je als de laagste diepte van ellende?
-10. Wat is jouw meest opvallende karaktereigenschap?
-11. Wat is jouw grootste angst?
-12. Welke eigenschap van jezelf betreur je het meest?
-13. Welke eigenschap in anderen betreur je het meest?
+9. Wat is de grootste vorm van ellende?
+10. Wat is je meest opvallende karaktereigenschap?
+11. Wat is je grootste angst?
+12. Welke eigenschap betreur je het meest van jezelf?
+13. Welke eigenschap betreur je het meest in anderen?
 14. Wanneer lieg je?
-15. Wat is jouw grootste buitensporigheid?
+15. Wat is je grootste buitensporigheid?
 16. Wat vind je jouw meest overschatte deugd?
 17. Wat vind je het minst leuk aan je uiterlijk?
 18. Als je één ding zou kunnen veranderen aan jezelf, wat zou dat dan zijn?
@@ -31,10 +31,10 @@
 31. Wie of wat is de grootste liefde van je leven?
 32. Welke levende persoon bewonder je het meest?
 33. Wie is jouw superheld?
-34. Welk historisch figuur identificeer je het meest me?
-35. Wat is jouw grootste spijt?
+34. Met welke historische figuur identificeer je jezelf het meest?
+35. Waarvan heb je meeste spijt?
 36. Hoe zou je willen sterven?
-37. Wat is jouw motto?
-38. Wat is het beste compliment wat je ooit hebt ontvangen?
-39. Wat was het gelukkigste wat je ooit is overkomen?
+37. Wat is je motto?
+38. Wat is het beste compliment dat je ooit hebt ontvangen?
+39. Wanneer had je het meeste geluk ooit?
 40. Wat geeft je hoop?
